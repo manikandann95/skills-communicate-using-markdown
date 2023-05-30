@@ -130,7 +130,7 @@ Here is a <br /> Line Break given.
          
  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 [Image of Panda]
-(https://cdn.britannica.com/32/5932-004-2CCB3F6F/Giant-panda-bamboo-forest-Sichuan-China-province.jpg) 
+(https://avatars.githubusercontent.com/u/61927737?v=4)
 
 Link:
          
@@ -150,17 +150,20 @@ Link:
  Build Tables: use pipe and use \- \| \-
          
 First | Second
-    -|-
-   1|2
+     -|-
+     1|2
    Odd|Even
   
 Tracking Task lists : Using  - []
 ```md
   - [x] First
   - [x] Second Task
-  - [x] Third task
+  - [ ] Third task
 ```
-       
+  - [x] First
+  - [x] Second Task
+  - [ ] Third task
+         
  --------------------------------------
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
