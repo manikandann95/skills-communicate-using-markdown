@@ -149,10 +149,10 @@ Link:
  
  Build Tables: use pipe and use \- \| \-
          
-First | Second
-     -|-
-     1|2
-   Odd|Even
+First|Second
+    -|-
+    1|2
+  Odd|Even
   
 Tracking Task lists : Using  - []
 ```md
