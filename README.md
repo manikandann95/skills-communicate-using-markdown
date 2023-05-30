@@ -89,8 +89,16 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
-
-```md
+---------------------------------------
+Code Example: with Backtick
+  
+  Single line code: Single Backtick
+  
+  This is `Codings`
+  
+  Multiline code segment using 3 Backtick
+  
+  ```md
   My edit with Headers
   
   <h1> Manik
@@ -98,6 +106,12 @@ _Welcome to "Communicate using Markdown"! :wave:_
      <h5> GitHub markdowns
        <h6> with Microsoft Learn
 ```
+
+```JavaScript
+var first = 1;
+var second = 2;
+var sum = first + second;
+ ```        
   <h2> My edit with _Headers_ : on work
   
   <h1> Manik
@@ -105,15 +119,49 @@ _Welcome to "Communicate using Markdown"! :wave:_
      <h5> \_GitHub\_ \*markdowns\*
        <h6> with **Microsoft Learn**
      
+  Quoting Text >
+         
+ > My First Quoted Text
+  
+HTML Inline : can be used
+Here is a <br /> Line Break given. 
+         
    Linking Image: 
          
  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 [Image of Panda]
-(https://cdn.britannica.com/32/5932-004-2CCB3F6F/Giant-panda-bamboo-forest-Sichuan-China-province.jpg?s=1500x700&q=85) 
+(https://cdn.britannica.com/32/5932-004-2CCB3F6F/Giant-panda-bamboo-forest-Sichuan-China-province.jpg) 
+
+Link:
          
  [LinkedIn](https://www.linkedin.com/in/manikandan-n-010b3758)
   
+ Ordered List:
+  1. First
+  1. Second
+  1. Third
+ 
+ Unordered List
+  - First
+      - Nested first
+  - Second
+  - Third
+ 
+ Build Tables: use pipe and use \- \| \-
          
+First | Second
+    -|-
+   1|2
+   Odd|Even
+  
+Tracking Task lists : Using  - []
+```md
+  - [x] First
+  - [x] Second Task
+  - [x] Third task
+```
+       
+ --------------------------------------
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
 1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
