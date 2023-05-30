@@ -97,13 +97,22 @@ _Welcome to "Communicate using Markdown"! :wave:_
    <h2> learns
      <h5> GitHub markdowns
        <h6> with Microsoft Learn
- ```
-    My edit with Headers : on work
+
+  <h2> My edit with _Headers_ : on work
   
   <h1> Manik
-   <h2> learns
-     <h5> GitHub markdowns
-       <h6> with Microsoft Learn
+   <h2> *learns*
+     <h5> \_GitHub\_ \*markdowns\*
+       <h6> with **Microsoft Learn**
+     
+   Linking Image: 
+         
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Image of Panda]
+(https://cdn.britannica.com/32/5932-004-2CCB3F6F/Giant-panda-bamboo-forest-Sichuan-China-province.jpg?s=1500x700&q=85) 
+         
+ [LinkedIn](https://www.linkedin.com/in/manikandan-n-010b3758)
+  
          
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
